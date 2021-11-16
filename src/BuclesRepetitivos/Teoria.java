@@ -45,8 +45,6 @@ public class Teoria {
 		double minimo=Double.MAX_VALUE;
 		double ingreso=0, conta=0;
 		
-		
-		
 		for (int i = 0; i < 10; i++) {
 			
 			ingreso = Double.parseDouble(JOptionPane.showInputDialog("Ingresa un numero"));
@@ -58,10 +56,7 @@ public class Teoria {
 			
 			if(maximo < ingreso) {
 				maximo = ingreso;
-			} 
-			
-			
-			
+			} 	
 			
 		}
 		
