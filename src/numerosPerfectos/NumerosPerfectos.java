@@ -9,7 +9,7 @@ public class NumerosPerfectos {
 		
 		/*
 		
-		int numero = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un número"));
+		int numero = Integer.parseInt(JOptionPane.showInputDialog("Ingrese un nï¿½mero"));
 		
 		int divisores = 0;
 		
@@ -27,14 +27,14 @@ public class NumerosPerfectos {
 		
 		*/
 		
-		int n = Integer.parseInt(JOptionPane.showInputDialog("Ingrese la cantidad de números perfectos que quiere ver: "));
+		int n = Integer.parseInt(JOptionPane.showInputDialog("Ingrese la cantidad de nï¿½meros perfectos que quiere ver: "));
 		
 		// Cadena de texto para poder juntar mas numeros
 		String numeros ="";
 		
 		double nPerfecto;
 		
-		for (int i = 0; i < n ; i++) {
+		for (int i = 0; i <= n ; i++) {
 			nPerfecto = (Math.pow(2, i) - 1) * (Math.pow(2, i-1));
 			
 			//numeros = numeros + nPerfecto + "\n"
