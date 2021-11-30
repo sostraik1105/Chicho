@@ -16,6 +16,11 @@ public class Ejercicio3 {
 		 	[2] = _
 		 	[3] = _
 		 	[4] = _
+		 	
+		 	asdasdasdasdasdasdasd
+		 	
+		 	
+		 	asd
 		*/
 		
 		int j = 0;
