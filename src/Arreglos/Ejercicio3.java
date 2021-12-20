@@ -16,6 +16,7 @@ public class Ejercicio3 {
 		 	[2] = _
 		 	[3] = _
 		 	[4] = _
+		 	
 		*/
 		
 		int j = 0;
